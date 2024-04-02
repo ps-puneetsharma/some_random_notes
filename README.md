@@ -1,2 +1,3 @@
-# some_random_notes
-Personal website
+# Some random notes
+
+Repository for my personal website.
